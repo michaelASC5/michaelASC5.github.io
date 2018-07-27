@@ -1,0 +1,42 @@
+body, html {
+    background-image: url(https://media.boingboing.net/wp-content/uploads/2018/05/cool-background1.png);
+    /* background-image: url(https://i.pinimg.com/originals/e6/b7/33/e6b7338e9befbb6a8f31964a63cc240d.jpg); */
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    font-size: 60px;
+    margin-left: 15px;
+    font-family: "Indie Flower", cursive;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: transparent;
+}
+
+.navbar a {
+    float: right;
+    display: flex;
+    color: white;
+    text-align: center;
+    flex-direction: row;
+    align-items: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+.navbar a.active {
+    background-color: black;
+    color: white;
+}
+
+.navbar a:hover {
+    background-color: black;
+    color: white;
+}
