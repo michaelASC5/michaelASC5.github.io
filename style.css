@@ -40,3 +40,31 @@ header {
     background-color: black;
     color: white;
 }
+
+h2 {
+    margin-top: 0px;
+    margin-left: 15px;
+    font-size: 30px;
+    font-family: "Kalam", cursive;
+}
+
+footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: right;
+    display: block;
+}
+
+.fa {
+    padding: 15px;
+    font-size: 15px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0 0;
+    color: red;
+    display: inline-block;
+    font: normal normal normal 14px/1;
+}
