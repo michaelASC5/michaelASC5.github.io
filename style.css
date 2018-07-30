@@ -1,5 +1,6 @@
 body, html {
-    background-image: url(https://media.boingboing.net/wp-content/uploads/2018/05/cool-background1.png);
+    /* background-color: blue; */
+    background-image: url(https://media.boingboing.net/wp-content/uploads/2018/05/cool-background1.png); 
     /* background-image: url(https://i.pinimg.com/originals/e6/b7/33/e6b7338e9befbb6a8f31964a63cc240d.jpg); */
     height: 99%;
     background-position: center;
@@ -64,7 +65,7 @@ footer {
     text-align: center;
     text-decoration: none;
     margin: 0 0;
-    color: red;
+    color: white;
     display: inline-block;
     font: normal normal normal 14px/1;
 }
